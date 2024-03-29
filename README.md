@@ -24,3 +24,14 @@ https://www.aliexpress.com/item/1005006190765971.html
 ![image](https://github.com/CSParnell78/OpenVision/assets/87897399/411eeadf-08b7-40d7-818f-7cdc696c067d)
 
 You can also use any knock off arduino Micro, It will most likely work
+
+# Gyroscope Module
+Any Gyroscope module will work. I will be using this one on aliexpress
+https://www.aliexpress.com/item/1005006476083295.html
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/5e5863ca-6fbe-4bca-936a-ca67176f4a7d)
+
+If you're australian and dont trust chinese company's I recommend The MPU-6050
+https://core-electronics.com.au/mpu-6050-module-3-axis-gyroscope-acce-lerometer.html
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/d60282aa-8d2d-4277-a88b-eefa3b1573bf)
+
+But otherwise any module will work

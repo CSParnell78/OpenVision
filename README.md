@@ -36,6 +36,13 @@ https://core-electronics.com.au/mpu-6050-module-3-axis-gyroscope-acce-lerometer.
 
 But otherwise any module will work
 
+# Encasing
+For the encasing you can use any standard phone vr encasing
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/2b92cdd1-a121-4098-b74e-fb95996d5b9f)
+if you have a 3d printer the files will be listed above
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/feb58b26-56ed-4175-a360-8c97d5f8b971)
+
+
 # Other Important Components
 https://www.aliexpress.com/item/1005005642753224.html
 

@@ -38,6 +38,6 @@ But otherwise any module will work
 
 # Other Important Components
 https://www.aliexpress.com/item/1005005642753224.html
-![image](https://github.com/CSParnell78/OpenVision/assets/87897399/7ac2d1af-e3f4-42a1-afdd-8fda31453f07)
+
 https://www.aliexpress.com/item/1005005544927756.html
-![image](https://github.com/CSParnell78/OpenVision/assets/87897399/f918b5fa-f13f-460d-897f-ae8c08a53f81)
+

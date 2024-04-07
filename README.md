@@ -58,3 +58,4 @@ And OFC a power supply, ima use a stanadard power bank like this one (australia 
 https://www.bigw.com.au/product/laser-20000mah-charge-core-power-bank-red/p/169847
 ![image](https://github.com/CSParnell78/OpenVision/assets/87897399/ca8312f0-11f0-43f5-8dbe-87c554e45f1c)
 
+UPDATE - WEBHOOK ADDED TO DISCORD (TEST)

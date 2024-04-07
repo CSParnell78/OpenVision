@@ -1,4 +1,4 @@
-![image](https://github.com/CSParnell78/OpenVision/assets/87897399/c46b368b-2071-4e43-8468-05d0c34d8af5)# OpenVision
+# OpenVision
 An Open-Source Vr Headset - CURRENTLY IN DEVELOPMENT
 This project is inspired by Both Relativty and Hades VR.
 This project is made for consumers who need a cheap option for a vr headset and already know or are intruiged to learn electronics

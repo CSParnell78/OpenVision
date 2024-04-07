@@ -1,4 +1,4 @@
-# OpenVision
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/c46b368b-2071-4e43-8468-05d0c34d8af5)# OpenVision
 An Open-Source Vr Headset - CURRENTLY IN DEVELOPMENT
 This project is inspired by Both Relativty and Hades VR.
 This project is made for consumers who need a cheap option for a vr headset and already know or are intruiged to learn electronics
@@ -51,7 +51,10 @@ https://www.aliexpress.com/item/1005005642753224.html
 # Power
 You're gonna need a regulator to regulate the power from the battery
 https://www.aliexpress.com/item/1005005544927756.html
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/7d079360-512c-40c5-ace5-1b46fe22789a)
+
 
 And OFC a power supply, ima use a stanadard power bank like this one (australia only)
-https://www.bigw.com.au/product/laser-20000mah-charge-core-power-bank-red/p/169847?store=284&gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xR7SNLXFrtKIz4nrFk48L3Y-l0ShBJiLhDSZ5dvF5G11gAJu1nokYsaAuWBEALw_wcB&gclsrc=aw.ds
+https://www.bigw.com.au/product/laser-20000mah-charge-core-power-bank-red/p/169847
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/ca8312f0-11f0-43f5-8dbe-87c554e45f1c)
 

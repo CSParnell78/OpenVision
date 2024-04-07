@@ -42,8 +42,16 @@ For the encasing you can use any standard phone vr encasing
 ![image](https://github.com/CSParnell78/OpenVision/assets/87897399/feb58b26-56ed-4175-a360-8c97d5f8b971)
 if you have a 3d printer the files will be listed above
 
-# Other Important Components
+# Wireless Data Transmitter
+you're gonna need a wireless data transmitter to integrate controllers
 https://www.aliexpress.com/item/1005005642753224.html
 
+![image](https://github.com/CSParnell78/OpenVision/assets/87897399/e9b465e2-f54a-4b32-9819-2a7bb257f8f1)
+
+# Power
+You're gonna need a regulator to regulate the power from the battery
 https://www.aliexpress.com/item/1005005544927756.html
+
+And OFC a power supply, ima use a stanadard power bank like this one (australia only)
+https://www.bigw.com.au/product/laser-20000mah-charge-core-power-bank-red/p/169847?store=284&gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xR7SNLXFrtKIz4nrFk48L3Y-l0ShBJiLhDSZ5dvF5G11gAJu1nokYsaAuWBEALw_wcB&gclsrc=aw.ds
 

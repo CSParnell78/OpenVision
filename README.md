@@ -48,14 +48,4 @@ https://www.aliexpress.com/item/1005005642753224.html
 
 ![image](https://github.com/CSParnell78/OpenVision/assets/87897399/e9b465e2-f54a-4b32-9819-2a7bb257f8f1)
 
-# Power
-You're gonna need a regulator to regulate the power from the battery
-https://www.aliexpress.com/item/1005005544927756.html
-![image](https://github.com/CSParnell78/OpenVision/assets/87897399/7d079360-512c-40c5-ace5-1b46fe22789a)
 
-
-And OFC a power supply, ima use a stanadard power bank like this one (australia only)
-https://www.bigw.com.au/product/laser-20000mah-charge-core-power-bank-red/p/169847
-![image](https://github.com/CSParnell78/OpenVision/assets/87897399/ca8312f0-11f0-43f5-8dbe-87c554e45f1c)
-
-UPDATE - WEBHOOK ADDED TO DISCORD (TEST)
